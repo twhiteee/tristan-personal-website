@@ -82,3 +82,20 @@ body {
 #goodbyes {
     line-height: 22px;
 }
+.resumeButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+#resumeButtonText {
+    text-align: center;
+    font-size: 1.75em;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: .25em;
+}
+#resumeButtonTextLink{
+    color: black;
+    text-decoration: none;
+}
